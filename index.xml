@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Amr Mousa</title><link>https://amrmousa.com/</link><atom:link href="https://amrmousa.com/index.xml" rel="self" type="application/rss+xml"/><description>Amr Mousa</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://amrmousa.com/media/icon_hu1b3412e5c2d60ae0a142be2ebea86b0e_21193_512x512_fill_lanczos_center_3.png</url><title>Amr Mousa</title><link>https://amrmousa.com/</link></image><item><title>TAR: Teacher-Aligned Representations via Contrastive Learning for Quadrupedal Locomotion</title><link/><pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate><guid/><description/></item><item><title>IROS 2025 Presentation</title><link>https://amrmousa.com/news/2025_iros/</link><pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate><guid>https://amrmousa.com/news/2025_iros/</guid><description>&lt;!-- To be shown in the inner page -->
 &lt;p>&lt;a href="https://arxiv.org/pdf/2503.20839" target="_blank" rel="noopener">📄 Read the paper&lt;/a> | &lt;a href="TARLoco/">🌐 Project website&lt;/a>&lt;/p>
-&lt;p>The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025) will be held from October 19 to 25, 2025, in Hangzhou, China. Located in southeastern China, Hangzhou is a captivating tourist destination renowned for its rich history, stunning natural beauty, and vibrant cultural sophistication.&lt;/p></description></item><item><title>Your Paper</title><link>https://amrmousa.com/featured_publications/2026_iros/</link><pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate><guid>https://amrmousa.com/featured_publications/2026_iros/</guid><description>&lt;!-- To be shown in the inner page -->
-&lt;!-- [📄 Read the paper](https://arxiv.org/pdf/2503.20839) | [🌐 Project website](TARLoco/) -->
 &lt;p>The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025) will be held from October 19 to 25, 2025, in Hangzhou, China. Located in southeastern China, Hangzhou is a captivating tourist destination renowned for its rich history, stunning natural beauty, and vibrant cultural sophistication.&lt;/p></description></item><item><title>Blog with Jupyter Notebooks!</title><link>https://amrmousa.com/post/blog-with-jupyter/</link><pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate><guid>https://amrmousa.com/post/blog-with-jupyter/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">IPython.core.display&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">Image&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">Image&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>
@@ -172,7 +170,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-384261957" class="chart">&lt;/div>
+&lt;div id="chart-526718943" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -181,7 +179,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-384261957', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-526718943', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -566,4 +564,128 @@ slides: example
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --></description></item><item><title>Advanced Energy Management Strategies for Plug-In Hybrid Electric Vehicles via Deep Reinforcement Learning</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Advanced Reinforcement Learning-Based Thermal Management Strategy For Battery Electric Vehicles</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Extended-deep Q-network: A functional reinforcement learning-based energy management strategy for plug-in hybrid electric vehicles</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item></channel></rss>
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --></description></item><item><title>TAR: Teacher-Aligned Representations</title><link>https://amrmousa.com/TARLoco/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://amrmousa.com/TARLoco/</guid><description>&lt;style>
+/* Wider content area only on this page */
+.tarloco-page .container,
+.tarloco-page .page-body,
+.tarloco-page main .container-lg,
+.tarloco-page .is-max-desktop {
+max-width: 1600px !important; /* increase from Bulma's default ~960px */
+width: 100%;
+}
+/* Optional: also widen the central column if you use Bulma columns */
+.tarloco-page .column.is-four-fifths {
+flex: 0 0 100%;
+max-width: 100%;
+}
+/* Video grid layout */
+.tarloco-page .video-grid {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+gap: 1rem;
+}
+.tarloco-page .video-grid video {
+width: 100%;
+height: auto;
+display: block;
+}
+&lt;/style>
+&lt;div class="tarloco-page">
+&lt;div align="center">
+&lt;h1 id="tar-teacheraligned-representations-via-contrastive-learning-for-quadrupedal-locomotion">TAR: Teacher‑Aligned Representations via Contrastive Learning for Quadrupedal Locomotion&lt;/h1>
+&lt;p>&lt;strong>Amr Mousa&lt;/strong>&lt;sup>1&lt;/sup>, Neil Karavis&lt;sup>2&lt;/sup>, Michele Caprio&lt;sup>1&lt;/sup>, Wei Pan&lt;sup>1&lt;/sup>, Richard Allmendinger&lt;sup>1&lt;/sup>&lt;/p>
+&lt;p>&lt;sup>1&lt;/sup>University of Manchester, UK    &lt;sup>2&lt;/sup>BAE Systems, UK&lt;/p>
+&lt;p>&lt;strong>Conference:&lt;/strong> &lt;a href="https://iros25.org" target="_blank" rel="noopener">IROS 2025&lt;/a> (Accepted)&lt;/p>
+&lt;br>
+&lt;p>&lt;a href="https://arxiv.org/pdf/2503.20839" target="_blank" rel="noopener">📄 Paper&lt;/a>
+&lt;a href="https://github.com/ammousa/TARLoco" target="_blank" rel="noopener">💻 Code&lt;/a>
+&lt;a href="https://arxiv.org/abs/2503.20839" target="_blank" rel="noopener">🧪 arXiv&lt;/a>
+&lt;a href="https://wandb.ai/amrmousa-m/TAR_workspace/" target="_blank" rel="noopener">📊 Results (W&amp;amp;B)&lt;/a>&lt;/p>
+&lt;/div>
+&lt;hr>
+&lt;h2 id="video">Video&lt;/h2>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ckKD85L1dV8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
+&lt;/div>
+&lt;hr>
+&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Quadrupedal locomotion via reinforcement learning (RL) is commonly addressed using the teacher–student paradigm, where a privileged teacher guides a proprioceptive student policy. However, key challenges such as &lt;strong>representation misalignment&lt;/strong> between privileged teacher and proprioceptive‑only student, &lt;strong>covariate shift&lt;/strong> due to behavioral cloning, and &lt;strong>lack of deployable adaptation&lt;/strong> lead to poor generalization in real‑world scenarios.&lt;/p>
+&lt;p>We propose &lt;strong>TAR (Teacher‑Aligned Representations)&lt;/strong>, a framework that leverages privileged information with &lt;strong>self‑supervised contrastive learning&lt;/strong> to bridge this gap. By distilling from a privileged teacher in simulation and constructing &lt;strong>structured latent spaces&lt;/strong> through contrastive objectives, our student policy &lt;strong>surpasses the fully privileged teacher&lt;/strong> and exhibits robust generalization to &lt;strong>out‑of‑distribution (OOD)&lt;/strong> scenarios. Results show &lt;strong>2× faster training&lt;/strong> to peak performance compared to state‑of‑the‑art baselines and &lt;strong>~40% better OOD generalization&lt;/strong> on average. Additionally, TAR transitions seamlessly into &lt;strong>deployment‑time learning without privileged states&lt;/strong>, enabling sample‑efficient adaptation and continual fine‑tuning in the real world.&lt;/p>
+&lt;hr>
+&lt;h2 id="technical-concept">Technical Concept&lt;/h2>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://amrmousa.com/TARLoco/static/images/fig-go1_go2_sim.png" alt="Simulation of Go1 and Go2 robots" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>The core idea is to &lt;strong>align latent representations&lt;/strong> between a &lt;em>privileged teacher&lt;/em> and a &lt;em>proprioceptive student&lt;/em> via contrastive learning within an RL pipeline. This alignment reduces representation drift and improves &lt;strong>sim‑to‑real&lt;/strong> transfer.&lt;/p>
+&lt;hr>
+&lt;h2 id="training-framework-overview">Training Framework Overview&lt;/h2>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://amrmousa.com/TARLoco/static/images/arch_full_1.png" alt="Training Framework Architecture" loading="lazy" data-zoomable width="70%" />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>Our training pipeline integrates a &lt;strong>teacher encoder&lt;/strong> that processes privileged states (S) to produce latent vectors (Z^T). The &lt;strong>student encoder&lt;/strong> extracts features (Z^S) from proprioceptive inputs (O_t) and hidden states (h_{t-1}).&lt;/p>
+&lt;p>A &lt;strong>triplet loss&lt;/strong> pulls the student’s next‑state prediction (\omega_{t+1}^{+}) toward the teacher’s future encoding (Z_{t+1}) while pushing away negatives (Z_{t+1}^{-}) sampled from other contexts. The &lt;strong>actor&lt;/strong> and &lt;strong>critic&lt;/strong> are optimized via policy gradients; the critic also benefits from the contrastive signal. A &lt;strong>velocity estimator&lt;/strong> is trained via regression and &lt;strong>frozen for deployment&lt;/strong>.&lt;/p>
+&lt;hr>
+&lt;h2 id="privilegedfree-finetuning--adaptation">Privileged‑Free Fine‑Tuning &amp;amp; Adaptation&lt;/h2>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://amrmousa.com/TARLoco/static/images/arch_ft_1.png" alt="Privileged‑free fine‑tuning framework" loading="lazy" data-zoomable width="70%" />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>During &lt;strong>adaptation&lt;/strong> (no privileged states), the teacher encoder is removed. The student constructs positive/negative pairs from its &lt;strong>own proprioceptive observations&lt;/strong> (O_{t+1}) vs. other agents’ observations (O_{t+1}^{j\ne i}) and hidden states, enforcing &lt;strong>temporal consistency&lt;/strong> via self‑supervised contrastive sampling. The design is &lt;strong>off‑policy compatible&lt;/strong>, enabling efficient fine‑tuning in &lt;strong>non‑stationary&lt;/strong> environments.&lt;/p>
+&lt;hr>
+&lt;h2 id="simulation-results">Simulation Results&lt;/h2>
+&lt;h3 id="indistribution-id">In‑distribution (ID)&lt;/h3>
+&lt;div class="video-grid">
+&lt;div>
+&lt;h4 style="color:green; margin-bottom:6px;">OURS&lt;/h4>
+&lt;video autoplay controls muted loop>
+&lt;source src="https://amrmousa.com/TARLoco/static/videos/testing/id/m0_f0.1_s1.0_7.5k_ours.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;div>
+&lt;h4 style="color:#0051ff; margin-bottom:6px;">HIM&lt;/h4>
+&lt;video autoplay controls muted loop>
+&lt;source src="https://amrmousa.com/TARLoco/static/videos/testing/id/m0_f0.1_s1.0_7.5k_him.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;div>
+&lt;h4 style="color:#000; margin-bottom:6px;">SLR&lt;/h4>
+&lt;video autoplay controls muted loop>
+&lt;source src="https://amrmousa.com/TARLoco/static/videos/testing/id/m0_f0.1_s1.0_7.5k_slr.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="outofdistribution-ood">Out‑of‑distribution (OOD)&lt;/h3>
+&lt;div class="columns is-centered">
+&lt;div class="column is-one-third has-text-centered">
+&lt;h4 style="color:green; margin-bottom:6px;">OURS&lt;/h4>
+&lt;video autoplay controls muted loop width="100%">
+&lt;source src="https://amrmousa.com/TARLoco/static/videos/testing/ood/m0_f1.0_s2.0_20k_ours.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;div class="column is-one-third has-text-centered">
+&lt;h4 style="color:#0051ff; margin-bottom:6px;">HIM&lt;/h4>
+&lt;video autoplay controls muted loop width="100%">
+&lt;source src="https://amrmousa.com/TARLoco/static/videos/testing/ood/m0_f1.0_s2.0_20k_slr.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;div class="column is-one-third has-text-centered">
+&lt;h4 style="color:#000; margin-bottom:6px;">SLR&lt;/h4>
+&lt;video autoplay controls muted loop width="100%">
+&lt;source src="https://amrmousa.com/TARLoco/static/videos/testing/ood/m0_f1.0_s2.0_20k_slr.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;/div>
+&lt;/div> &lt;!-- /.tarloco-page -->
+---
+&lt;h2 id="bibtex">BibTeX&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bibtex" data-lang="bibtex">&lt;span class="line">&lt;span class="cl">&lt;span class="nc">@misc&lt;/span>&lt;span class="p">{&lt;/span>&lt;span class="nl">mousa2025tar&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">title&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{TAR: Teacher-Aligned Representations via Contrastive Learning for Quadrupedal Locomotion}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">author&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{Mousa, Amr and Karavis, Neil and Caprio, Michele and Pan, Wei and Allmendinger, Richard}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">year&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{2025}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">url&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{https://arxiv.org/abs/2503.20839}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">note&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{Accepted at IROS 2025}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>
