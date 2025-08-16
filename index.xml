@@ -1,16 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Amr Mousa</title><link>https://amrmousa.com/</link><atom:link href="https://amrmousa.com/index.xml" rel="self" type="application/rss+xml"/><description>Amr Mousa</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://amrmousa.com/media/icon_hu1b3412e5c2d60ae0a142be2ebea86b0e_21193_512x512_fill_lanczos_center_3.png</url><title>Amr Mousa</title><link>https://amrmousa.com/</link></image><item><title>IROS 2025 Presentation</title><link>https://amrmousa.com/talk/iros-2025-presentation/</link><pubDate>Sat, 19 Oct 2030 09:00:00 +0000</pubDate><guid>https://amrmousa.com/talk/iros-2025-presentation/</guid><description>&lt;p>&lt;a href="https://arxiv.org/pdf/2503.20839" target="_blank" rel="noopener">📄 Read the paper&lt;/a> | &lt;a href="TARLoco/">🌐 Project website&lt;/a>&lt;/p>
-&lt;p>The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025) will be held from October 19 to 25, 2025, in Hangzhou, China. Located in southeastern China, Hangzhou is a captivating tourist destination renowned for its rich history, stunning natural beauty, and vibrant cultural sophistication.&lt;/p></description></item><item><title>TAR: Teacher-Aligned Representations via Contrastive Learning for Quadrupedal Locomotion</title><link>https://amrmousa.com/publication/conference-paper/2025_tar/</link><pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate><guid>https://amrmousa.com/publication/conference-paper/2025_tar/</guid><description>&lt;!--
-&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --></description></item><item><title>Blog with Jupyter Notebooks!</title><link>https://amrmousa.com/post/blog-with-jupyter/</link><pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate><guid>https://amrmousa.com/post/blog-with-jupyter/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">IPython.core.display&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">Image&lt;/span>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Amr Mousa</title><link>https://amrmousa.com/</link><atom:link href="https://amrmousa.com/index.xml" rel="self" type="application/rss+xml"/><description>Amr Mousa</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://amrmousa.com/media/icon_hu1b3412e5c2d60ae0a142be2ebea86b0e_21193_512x512_fill_lanczos_center_3.png</url><title>Amr Mousa</title><link>https://amrmousa.com/</link></image><item><title>TAR: Teacher-Aligned Representations via Contrastive Learning for Quadrupedal Locomotion</title><link/><pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate><guid/><description/></item><item><title>IROS 2025 Presentation</title><link>https://amrmousa.com/news/2025_iros/</link><pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate><guid>https://amrmousa.com/news/2025_iros/</guid><description>&lt;!-- To be shown in the inner page -->
+&lt;p>&lt;a href="https://arxiv.org/pdf/2503.20839" target="_blank" rel="noopener">📄 Read the paper&lt;/a> | &lt;a href="TARLoco/">🌐 Project website&lt;/a>&lt;/p>
+&lt;p>The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025) will be held from October 19 to 25, 2025, in Hangzhou, China. Located in southeastern China, Hangzhou is a captivating tourist destination renowned for its rich history, stunning natural beauty, and vibrant cultural sophistication.&lt;/p></description></item><item><title>Your Paper</title><link>https://amrmousa.com/featured_publications/2026_iros/</link><pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate><guid>https://amrmousa.com/featured_publications/2026_iros/</guid><description>&lt;!-- To be shown in the inner page -->
+&lt;!-- [📄 Read the paper](https://arxiv.org/pdf/2503.20839) | [🌐 Project website](TARLoco/) -->
+&lt;p>The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025) will be held from October 19 to 25, 2025, in Hangzhou, China. Located in southeastern China, Hangzhou is a captivating tourist destination renowned for its rich history, stunning natural beauty, and vibrant cultural sophistication.&lt;/p></description></item><item><title>Blog with Jupyter Notebooks!</title><link>https://amrmousa.com/post/blog-with-jupyter/</link><pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate><guid>https://amrmousa.com/post/blog-with-jupyter/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">IPython.core.display&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">Image&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">Image&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>
 &lt;figure >
@@ -33,29 +25,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;h2 id="import-the-notebooks-into-your-site">Import the notebooks into your site&lt;/h2>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">pipx install academic
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">academic import &lt;span class="s1">&amp;#39;notebooks/**.ipynb&amp;#39;&lt;/span> content/post/ --verbose
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>The notebooks will be published to the folder you specify above. In this case, they will be published to your &lt;code>content/post/&lt;/code> folder.&lt;/p></description></item><item><title>Extended-deep Q-network: A functional reinforcement learning-based energy management strategy for plug-in hybrid electric vehicles</title><link>https://amrmousa.com/publication/journal-article/2023_jestch/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>https://amrmousa.com/publication/journal-article/2023_jestch/</guid><description/></item><item><title>Advanced Reinforcement Learning-Based Thermal Management Strategy For Battery Electric Vehicles</title><link>https://amrmousa.com/publication/conference-paper/2023_fisita/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://amrmousa.com/publication/conference-paper/2023_fisita/</guid><description>&lt;!--
-&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --></description></item><item><title>Advanced Energy Management Strategies for Plug-In Hybrid Electric Vehicles via Deep Reinforcement Learning</title><link>https://amrmousa.com/publication/conference-paper/2022_sae/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate><guid>https://amrmousa.com/publication/conference-paper/2022_sae/</guid><description>&lt;!--
-&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --></description></item><item><title>Device and method for controlling a drivetrain of a hybrid vehicle</title><link>https://amrmousa.com/publication/patent/2022_avl/</link><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid>https://amrmousa.com/publication/patent/2022_avl/</guid><description/></item><item><title>AI-based Energy Management Strategies for P2 Plug-in Hybrid Electric Vehicles</title><link>https://amrmousa.com/publication/thesis/fh_msc/</link><pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate><guid>https://amrmousa.com/publication/thesis/fh_msc/</guid><description/></item><item><title>Process design and implementation of an automated document issuance system for academic purposes</title><link>https://amrmousa.com/publication/thesis/asu_meng/</link><pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate><guid>https://amrmousa.com/publication/thesis/asu_meng/</guid><description/></item><item><title>Welcome to Hugo Blox Builder, the website builder for Hugo</title><link>https://amrmousa.com/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://amrmousa.com/post/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>The notebooks will be published to the folder you specify above. In this case, they will be published to your &lt;code>content/post/&lt;/code> folder.&lt;/p></description></item><item><title>Extended-deep Q-network: A functional reinforcement learning-based energy management strategy for plug-in hybrid electric vehicles</title><link/><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Advanced Reinforcement Learning-Based Thermal Management Strategy For Battery Electric Vehicles</title><link/><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Advanced Energy Management Strategies for Plug-In Hybrid Electric Vehicles via Deep Reinforcement Learning</title><link/><pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Patent: Device and method for controlling a drivetrain of a hybrid vehicle</title><link/><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid/><description/></item><item><title>AI-based Energy Management Strategies for P2 Plug-in Hybrid Electric Vehicles</title><link>https://amrmousa.com/publication/thesis/fh_msc/</link><pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate><guid>https://amrmousa.com/publication/thesis/fh_msc/</guid><description/></item><item><title>Process design and implementation of an automated document issuance system for academic purposes</title><link>https://amrmousa.com/publication/thesis/asu_meng/</link><pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate><guid>https://amrmousa.com/publication/thesis/asu_meng/</guid><description/></item><item><title>Welcome to Hugo Blox Builder, the website builder for Hugo</title><link>https://amrmousa.com/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://amrmousa.com/post/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;hello&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;ol>
@@ -202,7 +172,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-473289156" class="chart">&lt;/div>
+&lt;div id="chart-384261957" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -211,7 +181,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-473289156', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-384261957', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -596,4 +566,4 @@ slides: example
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --></description></item></channel></rss>
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --></description></item><item><title>Advanced Energy Management Strategies for Plug-In Hybrid Electric Vehicles via Deep Reinforcement Learning</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Advanced Reinforcement Learning-Based Thermal Management Strategy For Battery Electric Vehicles</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Extended-deep Q-network: A functional reinforcement learning-based energy management strategy for plug-in hybrid electric vehicles</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item></channel></rss>
