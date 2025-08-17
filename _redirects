@@ -1,7 +1,3 @@
 # Netlify redirects
 # Automatically generated
 # Documentation: https://docs.netlify.com/routing/redirects/
-/amr/ /post/getting-started/
-/tutorials/amr/ /post/getting-started/
-/tarloco /tarloco/
-/TARLoco /tarloco/
