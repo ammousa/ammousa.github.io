@@ -464,7 +464,7 @@ Model: 20000 &amp;nbsp; | &amp;nbsp; Friction Coefficient: 1.0 &amp;nbsp; | &amp
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
 &lt;h3 id="-acknowledgments-and-community">🙏🏻 Acknowledgments and Community&lt;/h3>
-&lt;p>Special thanks to &lt;a href="https://bvadorno.github.io/" target="_blank" rel="noopener">&lt;strong>Bruno Adorno&lt;/strong>&lt;/a> and &lt;strong>Amy Johnson&lt;/strong> from the University of Manchester for providing hardware for testing and their unwavering support.&lt;/p>
+&lt;p>Special thanks to &lt;a href="https://bvadorno.github.io/" target="_blank" rel="noopener">&lt;strong>Bruno Adorno&lt;/strong>&lt;/a>, &lt;strong>Amy Johnson&lt;/strong>, &lt;strong>Darren Cunningham&lt;/strong> and &lt;strong>Lesley Pater&lt;/strong> from the University of Manchester for providing hardware for testing and their unwavering support.&lt;/p>
 &lt;p>This work builds upon &lt;a href="https://github.com/isaac-sim/IsaacLab" target="_blank" rel="noopener">&lt;strong>IsaacLab&lt;/strong>&lt;/a>, &lt;a href="https://github.com/leggedrobotics/rsl_rl" target="_blank" rel="noopener">&lt;strong>RSL-RL&lt;/strong>&lt;/a> and the broader research community. The original licenses apply; new contributions are under &lt;strong>CC BY-NC-SA 4.0&lt;/strong>.&lt;/p>
 &lt;p>For technical questions and implementation support:&lt;/p>
 &lt;ul>
