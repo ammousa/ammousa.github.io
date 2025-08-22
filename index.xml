@@ -1,623 +1,480 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Amr Mousa</title><link>https://amrmousa.com/</link><atom:link href="https://amrmousa.com/index.xml" rel="self" type="application/rss+xml"/><description>Amr Mousa</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://amrmousa.com/media/icon_hu1b3412e5c2d60ae0a142be2ebea86b0e_21193_512x512_fill_lanczos_center_3.png</url><title>Amr Mousa</title><link>https://amrmousa.com/</link></image><item><title>TAR: Teacher-Aligned Representations via Contrastive Learning for Quadrupedal Locomotion</title><link/><pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate><guid/><description/></item><item><title>IROS 2025 Presentation</title><link>https://amrmousa.com/news/2025_iros/</link><pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate><guid>https://amrmousa.com/news/2025_iros/</guid><description>&lt;!-- To be shown in the inner page -->
-&lt;p>&lt;a href="https://arxiv.org/pdf/2503.20839" target="_blank" rel="noopener">📄 Read the paper&lt;/a> | &lt;a href="tarloco/">🌐 Project website&lt;/a>&lt;/p>
-&lt;p>The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025) will be held from October 19 to 25, 2025, in Hangzhou, China. Located in southeastern China, Hangzhou is a captivating tourist destination renowned for its rich history, stunning natural beauty, and vibrant cultural sophistication.&lt;/p></description></item><item><title>Blog with Jupyter Notebooks!</title><link>https://amrmousa.com/post/blog-with-jupyter/</link><pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate><guid>https://amrmousa.com/post/blog-with-jupyter/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">IPython.core.display&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">Image&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">Image&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Amr Mousa</title><link>https://amrmousa.com/</link><atom:link href="https://amrmousa.com/index.xml" rel="self" type="application/rss+xml"/><description>Amr Mousa</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://amrmousa.com/media/icon_hu1b3412e5c2d60ae0a142be2ebea86b0e_21193_512x512_fill_lanczos_center_3.png</url><title>Amr Mousa</title><link>https://amrmousa.com/</link></image><item><title>TAR: Teacher-Aligned Representations via Contrastive Learning for Quadrupedal Locomotion</title><link/><pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate><guid/><description/></item><item><title>IROS 2025 Presentation</title><link/><pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Extended-deep Q-network: A functional reinforcement learning-based energy management strategy for plug-in hybrid electric vehicles</title><link/><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Advanced Reinforcement Learning-Based Thermal Management Strategy For Battery Electric Vehicles</title><link/><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Advanced Energy Management Strategies for Plug-In Hybrid Electric Vehicles via Deep Reinforcement Learning</title><link/><pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Patent: Device and method for controlling a drivetrain of a hybrid vehicle</title><link/><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid/><description/></item><item><title>AI-based Energy Management Strategies for P2 Plug-in Hybrid Electric Vehicles</title><link>https://amrmousa.com/publication/thesis/fh_msc/</link><pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate><guid>https://amrmousa.com/publication/thesis/fh_msc/</guid><description/></item><item><title>Process design and implementation of an automated document issuance system for academic purposes</title><link>https://amrmousa.com/publication/thesis/asu_meng/</link><pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate><guid>https://amrmousa.com/publication/thesis/asu_meng/</guid><description/></item><item><title>hyBIRD: Design of a Four and Six Seater Hybrid-Electric Aircraft Family</title><link>https://amrmousa.com/publication/thesis/zewail_bsc/</link><pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate><guid>https://amrmousa.com/publication/thesis/zewail_bsc/</guid><description/></item><item><title/><link>https://amrmousa.com/tarloco/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://amrmousa.com/tarloco/</guid><description>&lt;style>
+/* Custom link cards */
+.link-cards {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+gap: 1rem;
+margin: 2rem auto;
+max-width: 1000px;
+}
+.link-card {
+display: flex;
+align-items: center;
+gap: 18px;
+padding: 0.01rem 1rem;
+border-radius: 12px;
+text-decoration: none;
+color: inherit;
+background:linear-gradient(135deg, #0b517c 0%, #4d9cac 100%); color: #ffffff;
+box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+transition: transform .2s ease, box-shadow .2s ease;
+}
+.link-card:hover {
+transform: translateY(-4px);
+box-shadow: 0 16px 35px rgba(0,0,0,0.15);
+color: #fce6b7
+}
+.link-card .icon { font-size: 1.6rem; }
+.link-card .text { display: flex; flex-direction: column; font-family: "Inter", "Helvetica Neue", Arial, sans-serif; /* match h3 font */
+}
+.link-card .title { font-size: .75rem; font-weight: 500; }
+.link-card .desc { font-size: .5rem; opacity: .75; }
+/* Custom CSS for Interactive Elements */
+.hero-metrics {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+gap: 1rem;
+margin: 1rem 0;
+}
+.metric-card {
+background: linear-gradient(135deg, #0b517c 0%, #4d9cac 100%);
+color: white;
+padding: 1rem;
+border-radius: 15px;
+text-align: center;
+transform: translateY(0);
+transition: all 0.3s ease;
+box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+.metric-card:hover {
+transform: translateY(-10px);
+box-shadow: 0 20px 40px rgba(0,0,0,0.2);
+}
+.metric-number {
+font-size: 2rem;
+font-weight: bold;
+display: block;
+margin-bottom: 0.5rem;
+}
+.metric-label {
+font-size: 0.8rem;
+opacity: 0.9;
+}
+.interactive-tabs {
+display: flex;
+border-bottom: 2px solid #0b517c;
+margin-bottom: 2rem;
+}
+.tab-button {
+padding: 1rem 2rem;
+background: none;
+border: none;
+cursor: pointer;
+font-size: 1.1rem;
+font-weight: 500;
+color: #666;
+transition: all 0.3s ease;
+border-bottom: 3px solid transparent;
+}
+.tab-button.active {
+color: #0b517c;
+border-bottom-color: #0b517c;
+}
+.tab-button:hover {
+color: #000000;
+background:rgb(240, 244, 250);
+}
+.highlight-box {
+background: linear-gradient(135deg,rgb(255, 255, 255), #fce6b7);
+padding: 1.5rem;
+border-radius: 10px;
+margin: 1rem 0;
+border-left: 5px solid #e17055;
+}
+@media (max-width: 768px) {
+.hero-metrics {
+grid-template-columns: 1fr;
+}
+.comparison-grid {
+grid-template-columns: 1fr;
+}
+.interactive-tabs {
+flex-direction: column;
+}
+}
+&lt;/style>
+&lt;div style="text-align: center;">
+&lt;h1>T A R L o c o&lt;/h1>
+&lt;/div>
+&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="png" srcset="
-/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_cdb6e311e2a1735dbf10e762428f706e.webp 400w,
-/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_fc9bbb87927669af314bc8ac65d9d90e.webp 760w,
-/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://amrmousa.com/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_cdb6e311e2a1735dbf10e762428f706e.webp"
-width="601"
-height="203"
+&lt;div class="w-100" >&lt;img alt="TARLoco Index Image" srcset="
+/tarloco/images/index_hu1f909f6c9e78d26c4d607a96b35ec022_935786_b33927df22e8daea7414d2cd6ed13df0.webp 400w,
+/tarloco/images/index_hu1f909f6c9e78d26c4d607a96b35ec022_935786_e45f4869067d5aa54201054171a60181.webp 760w,
+/tarloco/images/index_hu1f909f6c9e78d26c4d607a96b35ec022_935786_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://amrmousa.com/tarloco/images/index_hu1f909f6c9e78d26c4d607a96b35ec022_935786_b33927df22e8daea7414d2cd6ed13df0.webp"
+width="760"
+height="279"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Welcome to Academic!&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre>&lt;code>Welcome to Academic!
-&lt;/code>&lt;/pre>
-&lt;h2 id="organize-your-notebooks">Organize your notebooks&lt;/h2>
-&lt;p>Place the notebooks that you would like to publish in a &lt;code>notebooks&lt;/code> folder at the root of your website.&lt;/p>
-&lt;h2 id="import-the-notebooks-into-your-site">Import the notebooks into your site&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">pipx install academic
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">academic import &lt;span class="s1">&amp;#39;notebooks/**.ipynb&amp;#39;&lt;/span> content/post/ --verbose
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>The notebooks will be published to the folder you specify above. In this case, they will be published to your &lt;code>content/post/&lt;/code> folder.&lt;/p></description></item><item><title>Extended-deep Q-network: A functional reinforcement learning-based energy management strategy for plug-in hybrid electric vehicles</title><link/><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Advanced Reinforcement Learning-Based Thermal Management Strategy For Battery Electric Vehicles</title><link/><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Advanced Energy Management Strategies for Plug-In Hybrid Electric Vehicles via Deep Reinforcement Learning</title><link/><pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Patent: Device and method for controlling a drivetrain of a hybrid vehicle</title><link/><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid/><description/></item><item><title>AI-based Energy Management Strategies for P2 Plug-in Hybrid Electric Vehicles</title><link>https://amrmousa.com/publication/thesis/fh_msc/</link><pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate><guid>https://amrmousa.com/publication/thesis/fh_msc/</guid><description/></item><item><title>Process design and implementation of an automated document issuance system for academic purposes</title><link>https://amrmousa.com/publication/thesis/asu_meng/</link><pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate><guid>https://amrmousa.com/publication/thesis/asu_meng/</guid><description/></item><item><title>Welcome to Hugo Blox Builder, the website builder for Hugo</title><link>https://amrmousa.com/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://amrmousa.com/post/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;hello&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="overview">Overview&lt;/h2>
-&lt;ol>
-&lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
-&lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
-&lt;li>You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li>
-&lt;/ol>
-&lt;p>&lt;a href="https://hugoblox.com" target="_blank" rel="noopener">
-&lt;figure >
+&lt;div style="text-align: center;">
+&lt;h3> 🐾 Teacher-Aligned Representations via Contrastive Learning for Quadrupedal Locomotion&lt;/h3>
+&lt;/div>
+&lt;div class="link-cards">
+&lt;a class="link-card paper" href="https://arxiv.org/pdf/2503.20839" target="_blank" rel="noopener noreferrer">
+&lt;span class="icon">📄&lt;/span>
+&lt;span class="text">
+&lt;span class="title">Paper&lt;/span>
+&lt;!-- &lt;span class="desc">Read the full manuscript&lt;/span> -->
+&lt;/span>
+&lt;/a>
+&lt;a class="link-card arxiv" href="https://arxiv.org/abs/2503.20839" target="_blank" rel="noopener noreferrer">
+&lt;span class="icon">🧾&lt;/span>
+&lt;span class="text">
+&lt;span class="title">arXiv&lt;/span>
+&lt;!-- &lt;span class="desc">Abstract &amp; citation details&lt;/span> -->
+&lt;/span>
+&lt;/a>
+&lt;a class="link-card code" href="https://github.com/ammousa/TARLoco" target="_blank" rel="noopener noreferrer">
+&lt;span class="icon">💻&lt;/span>
+&lt;span class="text">
+&lt;span class="title">Code&lt;/span>
+&lt;!-- &lt;span class="desc">GitHub repository&lt;/span> -->
+&lt;/span>
+&lt;/a>
+&lt;a class="link-card result" href="https://wandb.ai/amrmousa-m/TAR_workspace/" target="_blank" rel="noopener noreferrer">
+&lt;span class="icon">📊&lt;/span>
+&lt;span class="text">
+&lt;span class="title">W&amp;B Results&lt;/span>
+&lt;!-- &lt;span class="desc">W&amp;B dashboard&lt;/span> -->
+&lt;/span>
+&lt;/a>
+&lt;/div>
+&lt;!-- --------------------------------- -->
+&lt;div style="text-align: center; margin: 2rem 0;">
+&lt;div style="font-size: 1rem; margin: 0.5rem 0; text-align: center;">
+&lt;p>
+&lt;a href="https://amrmousa.com">Amr Mousa&lt;/a>&lt;sup>1&lt;/sup>, Neil Karavis&lt;sup>2&lt;/sup>,
+&lt;a href="https://michelecaprio.wixsite.com/caprio">Michele Caprio&lt;/a>&lt;sup>1&lt;/sup>,
+&lt;a href="https://panweihit.github.io/">Wei Pan&lt;/a>&lt;sup>1&lt;/sup>,
+&lt;a href="https://personalpages.manchester.ac.uk/staff/richard.allmendinger/default.htm">Richard Allmendinger&lt;/a>&lt;sup>1&lt;/sup>
+&lt;/p>
+&lt;p style="font-size: 0.9rem; color: #666; margin: 0;">
+&lt;sup>1&lt;/sup> University of Manchester, UK &amp;nbsp; | &amp;nbsp;
+&lt;sup>2&lt;/sup> BAE Systems, UK
+&lt;br>
+&lt;strong>Conference:&lt;/strong>
+&lt;a href="https://www.iros2025.org/">IROS 2025&lt;/a> (Accepted)
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="-news">📢 News&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>2025‑08‑18&lt;/strong> — Project website goes live with videos and results.&lt;/li>
+&lt;li>&lt;strong>2025‑06‑15&lt;/strong> — Accepted at &lt;strong>IROS 2025&lt;/strong>.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;/br>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ckKD85L1dV8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
+&lt;/div>
+&lt;h2 id="-abstract">📌 Abstract&lt;/h2>
+&lt;p>Quadrupedal locomotion via reinforcement learning (RL) is commonly addressed using the teacher–student paradigm, where a privileged teacher guides a proprioceptive student policy. However, key challenges such as &lt;strong>representation misalignment&lt;/strong> between privileged teacher and proprioceptive‑only student, &lt;strong>covariate shift&lt;/strong> due to behavioral cloning, and &lt;strong>lack of deployable adaptation&lt;/strong> lead to poor generalization in real‑world scenarios. We propose &lt;strong>Teacher‑Aligned Representations via Contrastive Learning (TAR)&lt;/strong>, a framework that leverages privileged information with &lt;strong>self‑supervised contrastive learning&lt;/strong> to bridge this gap. By distilling from a privileged teacher in simulation and constructing structured latent spaces through contrastive objectives, our student policy &lt;strong>surpasses&lt;/strong> the fully privileged “Teacher” and exhibits &lt;strong>robust generalization&lt;/strong> to out‑of‑distribution (OOD) scenarios. Results showed &lt;strong>2× faster training&lt;/strong> to reach peak performance compared to state‑of‑the‑art baselines, and &lt;strong>~40%&lt;/strong> better OOD generalization on average. Additionally, TAR transitions seamlessly into &lt;strong>privileged‑free fine‑tuning&lt;/strong> during deployment, enabling continual adaptation in the real world.&lt;/p>
+&lt;div class="hero-metrics">
+&lt;div class="metric-card">
+&lt;span class="metric-number">3×&lt;/span>
+&lt;span class="metric-label">Faster Convergence&lt;/span>
+&lt;/div>
+&lt;div class="metric-card">
+&lt;span class="metric-number">7,500&lt;/span>
+&lt;span class="metric-label">Iterations to Peak&lt;/span>
+&lt;/div>
+&lt;div class="metric-card">
+&lt;span class="metric-number">+61%&lt;/span>
+&lt;span class="metric-label">Return vs Baselines&lt;/span>
+&lt;/div>
+&lt;div class="metric-card">
+&lt;span class="metric-number">103%&lt;/span>
+&lt;span class="metric-label">Return vs Teacher&lt;/span>
+&lt;/div>
+&lt;/div>&lt;/br>
+&lt;hr>
+&lt;div class="interactive-tabs">
+&lt;button class="tab-button active" onclick="showTab('training', event)">Training&lt;/button>
+&lt;button class="tab-button" onclick="showTab('finetuning', event)">Fine-tuning&lt;/button>
+&lt;button class="tab-button" onclick="showTab('results', event)">Results&lt;/button>
+&lt;/div>
+&lt;div id="training" class="tab-content">
+&lt;h2 id="-training-framework-overview">⚙️ Training Framework Overview&lt;/h2>
+&lt;p>The core idea of our method is to leverages &lt;strong>contrastive learning&lt;/strong> to align latent representations between a &lt;em>privileged teacher&lt;/em> and a &lt;em>proprioceptive student&lt;/em> within RL paradigm. By structuring a shared latent space, the student utilizes the teacher&amp;rsquo;s privileged signals during training, enabling improved &lt;strong>generalization&lt;/strong> and &lt;strong>sim2real transfer&lt;/strong>. At deployment, the student operates with &lt;strong>proprioception only&lt;/strong>, maintaining robust performance in diverse and dynamic environments.&lt;/p>
+&lt;img src="images/arch.gif" alt="TAR Training Architecture" style="max-width: 100%; height: auto; border-radius: 10px;">
+&lt;p>&lt;strong>Pipeline summary&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Teacher encoder&lt;/strong> consumes privileged states $S_t$ to produce structured embeddings $Z^{T}_t$.&lt;/li>
+&lt;li>&lt;strong>Student encoder&lt;/strong> consumes proprioceptive inputs $O_t$ and hidden state $h_{t-1}$ to produce $Z^{S}_t$.&lt;/li>
+&lt;li>&lt;strong>Contrastive alignment (triplet loss):&lt;/strong> the student&amp;rsquo;s next-state prediction
+$\tilde{Z}^{+}_{t+1}$ is pulled &lt;strong>towards&lt;/strong> the teacher&amp;rsquo;s future code
+$Z_{t+1}$ and &lt;strong>away&lt;/strong> from negatives
+$Z^{-}_{t+1}$ sampled from other contexts.&lt;/li>
+&lt;li>&lt;strong>Policy optimization:&lt;/strong> actor–critic is trained with policy gradients; the critic additionally leverages the contrastive signal for representation shaping.&lt;/li>
+&lt;li>&lt;strong>Velocity estimator:&lt;/strong> trained via regression and &lt;strong>frozen&lt;/strong> post-training to stabilize deployment.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Design goals&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Robust latent structure that transfers to diverse terrains and dynamics.&lt;/li>
+&lt;li>Student policy that remains &lt;strong>privileged-free&lt;/strong> at test time without performance collapse.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;!-- --------------- -->
+&lt;div id="finetuning" class="tab-content" style="display: none;">
+&lt;h2 id="privileged-free-fine-tuning--adaptation">Privileged-Free Fine-Tuning &amp;amp; Adaptation&lt;/h2>
+&lt;figure id="figure-self-supervised-adaptation-without-access-to-the-teacher">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png" alt="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/a>&lt;/p>
-&lt;h2 id="get-started">Get Started&lt;/h2>
+&lt;div class="w-100" >&lt;img alt="Privileged-Free Fine-Tuning"
+src="https://amrmousa.com/tarloco/images/arch_ft.gif"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Self-supervised adaptation without access to the teacher.
+&lt;/figcaption>&lt;/figure>
+&lt;p>During &lt;strong>adaptation&lt;/strong> (or privileged-free learning), the teacher encoder is removed:&lt;/p>
 &lt;ul>
-&lt;li>👉 &lt;a href="https://hugoblox.com/templates/" target="_blank" rel="noopener">&lt;strong>Create a new site&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>📚 &lt;a href="https://docs.hugoblox.com/" target="_blank" rel="noopener">&lt;strong>Personalize your site&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>💬 &lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Chat with the &lt;strong>Wowchemy community&lt;/strong>&lt;/a> or &lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>Hugo community&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/wowchemy" target="_blank" rel="noopener">@wowchemy&lt;/a> &lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a> &lt;a href="https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query" target="_blank" rel="noopener">#MadeWithWowchemy&lt;/a>&lt;/li>
-&lt;li>💡 &lt;a href="https://github.com/HugoBlox/hugo-blox-builder/issues" target="_blank" rel="noopener">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong> for &lt;em>Wowchemy&lt;/em>&lt;/a>&lt;/li>
-&lt;li>⬆️ &lt;strong>Updating Wowchemy?&lt;/strong> View the &lt;a href="https://docs.hugoblox.com/hugo-tutorials/update/" target="_blank" rel="noopener">Update Tutorial&lt;/a> and &lt;a href="https://hugoblox.com/updates/" target="_blank" rel="noopener">Release Notes&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="crowd-funded-open-source-software">Crowd-funded open-source software&lt;/h2>
-&lt;p>To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p>
-&lt;h3 id="-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpshugobloxcomsponsor">&lt;a href="https://hugoblox.com/sponsor/" target="_blank" rel="noopener">❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a>&lt;/h3>
-&lt;p>As a token of appreciation for sponsoring, you can &lt;strong>unlock &lt;a href="https://hugoblox.com/sponsor/" target="_blank" rel="noopener">these&lt;/a> awesome rewards and extra features 🦄✨&lt;/strong>&lt;/p>
-&lt;h2 id="ecosystem">Ecosystem&lt;/h2>
+&lt;li>The student forms &lt;strong>positive/negative pairs&lt;/strong> from its own proprioceptive rollouts:
 &lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://github.com/GetRD/academic-file-converter" target="_blank" rel="noopener">Hugo Academic CLI&lt;/a>:&lt;/strong> Automatically import publications from BibTeX&lt;/li>
-&lt;/ul>
-&lt;h2 id="inspiration">Inspiration&lt;/h2>
-&lt;p>&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://hugoblox.com/user-stories/" target="_blank" rel="noopener">view the &lt;strong>showcase&lt;/strong>&lt;/a> of personal, project, and business sites.&lt;/p>
-&lt;h2 id="features">Features&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Page builder&lt;/strong> - Create &lt;em>anything&lt;/em> with &lt;a href="https://docs.hugoblox.com/page-builder/" target="_blank" rel="noopener">&lt;strong>widgets&lt;/strong>&lt;/a> and &lt;a href="https://docs.hugoblox.com/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>elements&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Edit any type of content&lt;/strong> - Blog posts, publications, talks, slides, projects, and more!&lt;/li>
-&lt;li>&lt;strong>Create content&lt;/strong> in &lt;a href="https://docs.hugoblox.com/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>Markdown&lt;/strong>&lt;/a>, &lt;a href="https://docs.hugoblox.com/import/jupyter/" target="_blank" rel="noopener">&lt;strong>Jupyter&lt;/strong>&lt;/a>, or &lt;a href="https://docs.hugoblox.com/install-locally/" target="_blank" rel="noopener">&lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Plugin System&lt;/strong> - Fully customizable &lt;a href="https://docs.hugoblox.com/customization/" target="_blank" rel="noopener">&lt;strong>color&lt;/strong> and &lt;strong>font themes&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Display Code and Math&lt;/strong> - Code highlighting and &lt;a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank" rel="noopener">LaTeX math&lt;/a> supported&lt;/li>
-&lt;li>&lt;strong>Integrations&lt;/strong> - &lt;a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics&lt;/a>, &lt;a href="https://disqus.com" target="_blank" rel="noopener">Disqus commenting&lt;/a>, Maps, Contact Forms, and more!&lt;/li>
-&lt;li>&lt;strong>Beautiful Site&lt;/strong> - Simple and refreshing one page design&lt;/li>
-&lt;li>&lt;strong>Industry-Leading SEO&lt;/strong> - Help get your website found on search engines and social media&lt;/li>
-&lt;li>&lt;strong>Media Galleries&lt;/strong> - Display your images and videos with captions in a customizable gallery&lt;/li>
-&lt;li>&lt;strong>Mobile Friendly&lt;/strong> - Look amazing on every screen with a mobile friendly version of your site&lt;/li>
-&lt;li>&lt;strong>Multi-language&lt;/strong> - 34+ language packs including English, 中文, and Português&lt;/li>
-&lt;li>&lt;strong>Multi-user&lt;/strong> - Each author gets their own profile page&lt;/li>
-&lt;li>&lt;strong>Privacy Pack&lt;/strong> - Assists with GDPR&lt;/li>
-&lt;li>&lt;strong>Stand Out&lt;/strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li>
-&lt;li>&lt;strong>One-Click Deployment&lt;/strong> - No servers. No databases. Only files.&lt;/li>
-&lt;/ul>
-&lt;h2 id="themes">Themes&lt;/h2>
-&lt;p>Wowchemy and its templates come with &lt;strong>automatic day (light) and night (dark) mode&lt;/strong> built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Demo&lt;/a> to see it in action! Day/night mode can also be disabled by the site admin in &lt;code>params.toml&lt;/code>.&lt;/p>
-&lt;p>&lt;a href="https://docs.hugoblox.com/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
-&lt;h2 id="license">License&lt;/h2>
-&lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
-&lt;p>Released under the &lt;a href="https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>Welcome to Hugo Blox Builder, the website builder for Hugo</title><link>https://amrmousa.com/tarloco/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://amrmousa.com/tarloco/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;hello&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="overview">Overview&lt;/h2>
-&lt;ol>
-&lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
-&lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
-&lt;li>You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li>
-&lt;/ol>
-&lt;p>&lt;a href="https://hugoblox.com" target="_blank" rel="noopener">
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png" alt="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/a>&lt;/p>
-&lt;h2 id="get-started">Get Started&lt;/h2>
-&lt;ul>
-&lt;li>👉 &lt;a href="https://hugoblox.com/templates/" target="_blank" rel="noopener">&lt;strong>Create a new site&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>📚 &lt;a href="https://docs.hugoblox.com/" target="_blank" rel="noopener">&lt;strong>Personalize your site&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>💬 &lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Chat with the &lt;strong>Wowchemy community&lt;/strong>&lt;/a> or &lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>Hugo community&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/wowchemy" target="_blank" rel="noopener">@wowchemy&lt;/a> &lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a> &lt;a href="https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query" target="_blank" rel="noopener">#MadeWithWowchemy&lt;/a>&lt;/li>
-&lt;li>💡 &lt;a href="https://github.com/HugoBlox/hugo-blox-builder/issues" target="_blank" rel="noopener">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong> for &lt;em>Wowchemy&lt;/em>&lt;/a>&lt;/li>
-&lt;li>⬆️ &lt;strong>Updating Wowchemy?&lt;/strong> View the &lt;a href="https://docs.hugoblox.com/hugo-tutorials/update/" target="_blank" rel="noopener">Update Tutorial&lt;/a> and &lt;a href="https://hugoblox.com/updates/" target="_blank" rel="noopener">Release Notes&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="crowd-funded-open-source-software">Crowd-funded open-source software&lt;/h2>
-&lt;p>To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p>
-&lt;h3 id="-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpshugobloxcomsponsor">&lt;a href="https://hugoblox.com/sponsor/" target="_blank" rel="noopener">❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a>&lt;/h3>
-&lt;p>As a token of appreciation for sponsoring, you can &lt;strong>unlock &lt;a href="https://hugoblox.com/sponsor/" target="_blank" rel="noopener">these&lt;/a> awesome rewards and extra features 🦄✨&lt;/strong>&lt;/p>
-&lt;h2 id="ecosystem">Ecosystem&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://github.com/GetRD/academic-file-converter" target="_blank" rel="noopener">Hugo Academic CLI&lt;/a>:&lt;/strong> Automatically import publications from BibTeX&lt;/li>
-&lt;/ul>
-&lt;h2 id="inspiration">Inspiration&lt;/h2>
-&lt;p>&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://hugoblox.com/user-stories/" target="_blank" rel="noopener">view the &lt;strong>showcase&lt;/strong>&lt;/a> of personal, project, and business sites.&lt;/p>
-&lt;h2 id="features">Features&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Page builder&lt;/strong> - Create &lt;em>anything&lt;/em> with &lt;a href="https://docs.hugoblox.com/page-builder/" target="_blank" rel="noopener">&lt;strong>widgets&lt;/strong>&lt;/a> and &lt;a href="https://docs.hugoblox.com/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>elements&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Edit any type of content&lt;/strong> - Blog posts, publications, talks, slides, projects, and more!&lt;/li>
-&lt;li>&lt;strong>Create content&lt;/strong> in &lt;a href="https://docs.hugoblox.com/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>Markdown&lt;/strong>&lt;/a>, &lt;a href="https://docs.hugoblox.com/import/jupyter/" target="_blank" rel="noopener">&lt;strong>Jupyter&lt;/strong>&lt;/a>, or &lt;a href="https://docs.hugoblox.com/install-locally/" target="_blank" rel="noopener">&lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Plugin System&lt;/strong> - Fully customizable &lt;a href="https://docs.hugoblox.com/customization/" target="_blank" rel="noopener">&lt;strong>color&lt;/strong> and &lt;strong>font themes&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Display Code and Math&lt;/strong> - Code highlighting and &lt;a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank" rel="noopener">LaTeX math&lt;/a> supported&lt;/li>
-&lt;li>&lt;strong>Integrations&lt;/strong> - &lt;a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics&lt;/a>, &lt;a href="https://disqus.com" target="_blank" rel="noopener">Disqus commenting&lt;/a>, Maps, Contact Forms, and more!&lt;/li>
-&lt;li>&lt;strong>Beautiful Site&lt;/strong> - Simple and refreshing one page design&lt;/li>
-&lt;li>&lt;strong>Industry-Leading SEO&lt;/strong> - Help get your website found on search engines and social media&lt;/li>
-&lt;li>&lt;strong>Media Galleries&lt;/strong> - Display your images and videos with captions in a customizable gallery&lt;/li>
-&lt;li>&lt;strong>Mobile Friendly&lt;/strong> - Look amazing on every screen with a mobile friendly version of your site&lt;/li>
-&lt;li>&lt;strong>Multi-language&lt;/strong> - 34+ language packs including English, 中文, and Português&lt;/li>
-&lt;li>&lt;strong>Multi-user&lt;/strong> - Each author gets their own profile page&lt;/li>
-&lt;li>&lt;strong>Privacy Pack&lt;/strong> - Assists with GDPR&lt;/li>
-&lt;li>&lt;strong>Stand Out&lt;/strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li>
-&lt;li>&lt;strong>One-Click Deployment&lt;/strong> - No servers. No databases. Only files.&lt;/li>
-&lt;/ul>
-&lt;h2 id="themes">Themes&lt;/h2>
-&lt;p>Wowchemy and its templates come with &lt;strong>automatic day (light) and night (dark) mode&lt;/strong> built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Demo&lt;/a> to see it in action! Day/night mode can also be disabled by the site admin in &lt;code>params.toml&lt;/code>.&lt;/p>
-&lt;p>&lt;a href="https://docs.hugoblox.com/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
-&lt;h2 id="license">License&lt;/h2>
-&lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
-&lt;p>Released under the &lt;a href="https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>Writing technical content in Markdown</title><link>https://amrmousa.com/post/writing-technical-content/</link><pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate><guid>https://amrmousa.com/post/writing-technical-content/</guid><description>&lt;p>Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p>
-&lt;p>&lt;strong>Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong>&lt;/p>
-&lt;p>On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p>
-&lt;h2 id="examples">Examples&lt;/h2>
-&lt;h3 id="code">Code&lt;/h3>
-&lt;p>Wowchemy supports a Markdown extension for highlighting code syntax. You can customize the styles under the &lt;code>syntax_highlighter&lt;/code> option in your &lt;code>config/_default/params.yaml&lt;/code> file.&lt;/p>
-&lt;pre>&lt;code>```python
-import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-```
-&lt;/code>&lt;/pre>
-&lt;p>renders as&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">pandas&lt;/span> &lt;span class="k">as&lt;/span> &lt;span class="nn">pd&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">data&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">pd&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">read_csv&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;data.csv&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">data&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">head&lt;/span>&lt;span class="p">()&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="mindmaps">Mindmaps&lt;/h3>
-&lt;p>Wowchemy supports a Markdown extension for mindmaps.&lt;/p>
-&lt;p>Simply insert a Markdown &lt;code>markmap&lt;/code> code block and optionally set the height of the mindmap as shown in the example below.&lt;/p>
-&lt;p>A simple mindmap defined as a Markdown list:&lt;/p>
-&lt;div class="highlight">
-&lt;pre class="chroma">
-&lt;code>
-```markmap {height="200px"}
-- Hugo Modules
-- wowchemy
-- blox-plugins-netlify
-- blox-plugins-netlify-cms
-- blox-plugins-reveal
-```
-&lt;/code>
-&lt;/pre>
-&lt;/div>
-&lt;p>renders as&lt;/p>
-&lt;div class="markmap" style="height: 200px;">
-&lt;pre>- Hugo Modules
-- wowchemy
-- blox-plugins-netlify
-- blox-plugins-netlify-cms
-- blox-plugins-reveal&lt;/pre>
-&lt;/div>
-&lt;p>A more advanced mindmap with formatting, code blocks, and math:&lt;/p>
-&lt;div class="highlight">
-&lt;pre class="chroma">
-&lt;code>
-```markmap
-- Mindmaps
-- Links
-- [Wowchemy Docs](https://docs.hugoblox.com/)
-- [Discord Community](https://discord.gg/z8wNYzb)
-- [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-- Features
-- Markdown formatting
-- **inline** ~~text~~ *styles*
-- multiline
-text
-- `inline code`
--
-```js
-console.log('hello');
-console.log('code block');
-```
-- Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-&lt;/code>
-&lt;/pre>
-&lt;/div>
-&lt;p>renders as&lt;/p>
-&lt;div class="markmap" style="height: 500px;">
-&lt;pre>- Mindmaps
-- Links
-- [Wowchemy Docs](https://docs.hugoblox.com/)
-- [Discord Community](https://discord.gg/z8wNYzb)
-- [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-- Features
-- Markdown formatting
-- **inline** ~~text~~ *styles*
-- multiline
-text
-- `inline code`
--
-```js
-console.log('hello');
-console.log('code block');
-```
-- Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$&lt;/pre>
-&lt;/div>
-&lt;h3 id="charts">Charts&lt;/h3>
-&lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
-&lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
-&lt;p>Demo:&lt;/p>
-&lt;div id="chart-869372154" class="chart">&lt;/div>
-&lt;script>
-(function() {
-let a = setInterval( function() {
-if ( typeof window.Plotly === 'undefined' ) {
-return;
-}
-clearInterval( a );
-Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-869372154', chart.data, chart.layout, {responsive: true});
-});
-}, 500 );
-})();
-&lt;/script>
-&lt;p>You might also find the &lt;a href="http://plotly-json-editor.getforge.io/" target="_blank" rel="noopener">Plotly JSON Editor&lt;/a> useful.&lt;/p>
-&lt;h3 id="math">Math&lt;/h3>
-&lt;p>Wowchemy supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code>math&lt;/code> option in your &lt;code>config/_default/params.yaml&lt;/code> file.&lt;/p>
-&lt;p>To render &lt;em>inline&lt;/em> or &lt;em>block&lt;/em> math, wrap your LaTeX math with &lt;code>{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code> or &lt;code>{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code>, respectively. (We wrap the LaTeX math in the Wowchemy &lt;em>math&lt;/em> shortcode to prevent Hugo rendering our math as Markdown. The &lt;em>math&lt;/em> shortcode is new in v5.5-dev.)&lt;/p>
-&lt;p>Example &lt;strong>math block&lt;/strong>:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-latex" data-lang="latex">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; math &amp;gt;&lt;span class="nb">}}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sb">$$&lt;/span>&lt;span class="nb">
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">&lt;/span>&lt;span class="nv">\gamma&lt;/span>&lt;span class="nb">_{n} &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\frac&lt;/span>&lt;span class="nb">{ &lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> | &lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n} &lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">} &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb">^T &lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">[&lt;/span>&lt;span class="nv">\nabla&lt;/span>&lt;span class="nb"> F &lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\nabla&lt;/span>&lt;span class="nb"> F &lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">]&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> |}{&lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\|\nabla&lt;/span>&lt;span class="nb"> F&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb">{x}_{n}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\nabla&lt;/span>&lt;span class="nb"> F&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb">{x}_{n&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\|&lt;/span>&lt;span class="nb">^&lt;/span>&lt;span class="m">2&lt;/span>&lt;span class="nb">}
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">&lt;/span>&lt;span class="s">$$&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; /math &amp;gt;&lt;span class="nb">}}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-&lt;p>Example &lt;strong>inline math&lt;/strong> &lt;code>{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code> renders as
-$\nabla F(\mathbf{x}_{n})$.&lt;/p>
-&lt;p>Example &lt;strong>multi-line math&lt;/strong> using the math linebreak (&lt;code>\\&lt;/code>):&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-latex" data-lang="latex">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; math &amp;gt;&lt;span class="nb">}}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sb">$$&lt;/span>&lt;span class="nb">f&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nb">k;p_{&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">}^{&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="nb">}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\begin&lt;/span>&lt;span class="nb">{cases}p_{&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">}^{&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="nb">} &amp;amp; &lt;/span>&lt;span class="nv">\text&lt;/span>&lt;span class="nb">{if }k&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">, &lt;/span>&lt;span class="nv">\\&lt;/span>&lt;span class="nb">
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb">p_{&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">}^{&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="nb">} &amp;amp; &lt;/span>&lt;span class="nv">\text&lt;/span>&lt;span class="nb">{if }k&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">.&lt;/span>&lt;span class="nv">\end&lt;/span>&lt;span class="nb">{cases}&lt;/span>&lt;span class="s">$$&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; /math &amp;gt;&lt;span class="nb">}}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
-1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
-$$
-&lt;h3 id="diagrams">Diagrams&lt;/h3>
-&lt;p>Wowchemy supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code>diagram&lt;/code> option in your &lt;code>config/_default/params.toml&lt;/code> file or by adding &lt;code>diagram: true&lt;/code> to your page front matter.&lt;/p>
-&lt;p>An example &lt;strong>flowchart&lt;/strong>:&lt;/p>
-&lt;pre>&lt;code>```mermaid
-graph TD
-A[Hard] --&amp;gt;|Text| B(Round)
-B --&amp;gt; C{Decision}
-C --&amp;gt;|One| D[Result 1]
-C --&amp;gt;|Two| E[Result 2]
-```
-&lt;/code>&lt;/pre>
-&lt;p>renders as&lt;/p>
-&lt;div class="mermaid">graph TD
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-&lt;/div>
-&lt;p>An example &lt;strong>sequence diagram&lt;/strong>:&lt;/p>
-&lt;pre>&lt;code>```mermaid
-sequenceDiagram
-Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
-loop Healthcheck
-John-&amp;gt;&amp;gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&amp;gt;&amp;gt;Alice: Great!
-John-&amp;gt;&amp;gt;Bob: How about you?
-Bob--&amp;gt;&amp;gt;John: Jolly good!
-```
-&lt;/code>&lt;/pre>
-&lt;p>renders as&lt;/p>
-&lt;div class="mermaid">sequenceDiagram
-Alice->>John: Hello John, how are you?
-loop Healthcheck
-John->>John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John-->>Alice: Great!
-John->>Bob: How about you?
-Bob-->>John: Jolly good!
-&lt;/div>
-&lt;p>An example &lt;strong>Gantt diagram&lt;/strong>:&lt;/p>
-&lt;pre>&lt;code>```mermaid
-gantt
-section Section
-Completed :done, des1, 2014-01-06,2014-01-08
-Active :active, des2, 2014-01-07, 3d
-Parallel 1 : des3, after des1, 1d
-Parallel 2 : des4, after des1, 1d
-Parallel 3 : des5, after des3, 1d
-Parallel 4 : des6, after des4, 1d
-```
-&lt;/code>&lt;/pre>
-&lt;p>renders as&lt;/p>
-&lt;div class="mermaid">gantt
-section Section
-Completed :done, des1, 2014-01-06,2014-01-08
-Active :active, des2, 2014-01-07, 3d
-Parallel 1 : des3, after des1, 1d
-Parallel 2 : des4, after des1, 1d
-Parallel 3 : des5, after des3, 1d
-Parallel 4 : des6, after des4, 1d
-&lt;/div>
-&lt;p>An example &lt;strong>class diagram&lt;/strong>:&lt;/p>
-&lt;pre>&lt;code>```mermaid
-classDiagram
-Class01 &amp;lt;|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --&amp;gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&amp;gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 &amp;lt;--&amp;gt; C2: Cool label
-```
-&lt;/code>&lt;/pre>
-&lt;p>renders as&lt;/p>
-&lt;div class="mermaid">classDiagram
-Class01 &lt;|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --> C2 : Where am i?
-Class09 --* C3
-Class09 --|> Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 &lt;--> C2: Cool label
-&lt;/div>
-&lt;p>An example &lt;strong>state diagram&lt;/strong>:&lt;/p>
-&lt;pre>&lt;code>```mermaid
-stateDiagram
-[*] --&amp;gt; Still
-Still --&amp;gt; [*]
-Still --&amp;gt; Moving
-Moving --&amp;gt; Still
-Moving --&amp;gt; Crash
-Crash --&amp;gt; [*]
-```
-&lt;/code>&lt;/pre>
-&lt;p>renders as&lt;/p>
-&lt;div class="mermaid">stateDiagram
-[*] --> Still
-Still --> [*]
-Still --> Moving
-Moving --> Still
-Moving --> Crash
-Crash --> [*]
-&lt;/div>
-&lt;h3 id="todo-lists">Todo lists&lt;/h3>
-&lt;p>You can even write your todo lists in Markdown too:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">&lt;span class="k">- [x]&lt;/span> Write math example
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">- [x]&lt;/span> Write diagram example
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">- [ ]&lt;/span> Do something else
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
-&lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Write math example
-&lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Write diagram example&lt;/li>
+&lt;li>Positives from temporally adjacent observations $O_{t+1}$ with consistent hidden state context.&lt;/li>
+&lt;li>Negatives from other agents or distant contexts $O^{j\neq i}_{t+1}$.&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Do something else&lt;/li>
+&lt;li>This &lt;strong>self-supervised contrastive sampling&lt;/strong> enforces temporal consistency and context separation &lt;strong>without external supervision&lt;/strong>.&lt;/li>
+&lt;li>The method is &lt;strong>off-policy compatible&lt;/strong>, enabling efficient fine-tuning in &lt;strong>dynamic, non-stationary&lt;/strong> environments.&lt;/li>
 &lt;/ul>
-&lt;h3 id="tables">Tables&lt;/h3>
-&lt;p>Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em>Table&lt;/em> shortcode to your page:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-go" data-lang="go">&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&amp;lt;&lt;/span> &lt;span class="nx">table&lt;/span> &lt;span class="nx">path&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;results.csv&amp;#34;&lt;/span> &lt;span class="nx">header&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;true&amp;#34;&lt;/span> &lt;span class="nx">caption&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;Table 1: My results&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;}}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
-&lt;table class="table">
-&lt;tr> &lt;th>customer_id&lt;/th> &lt;th>score&lt;/th> &lt;/tr>
-&lt;tr>
-&lt;td data-table-dtype="number">1&lt;/td>
-&lt;td data-table-dtype="number">0&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td data-table-dtype="number">2&lt;/td>
-&lt;td data-table-dtype="text">0.5&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td data-table-dtype="number">3&lt;/td>
-&lt;td data-table-dtype="number">1&lt;/td>
-&lt;/tr>
-&lt;caption>Table 1: My results&lt;/caption>
-&lt;/table>
-&lt;h3 id="callouts">Callouts&lt;/h3>
-&lt;p>Academic supports a &lt;a href="https://docs.hugoblox.com/content/writing-markdown-latex/#callouts" target="_blank" rel="noopener">shortcode for callouts&lt;/a>, also referred to as &lt;em>asides&lt;/em>, &lt;em>hints&lt;/em>, or &lt;em>alerts&lt;/em>. By wrapping a paragraph in &lt;code>{{% callout note %}} ... {{% /callout %}}&lt;/code>, it will render as an aside.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{% callout note %}}
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% /callout %}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
-&lt;div class="alert alert-note">
-&lt;div>
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
 &lt;/div>
+&lt;!-- --------------- -->
+&lt;div id="results" class="tab-content" style="display: none;">
+&lt;h2 id="-results">📈 Results&lt;/h2>
+&lt;div class="highlight-box">
+&lt;strong>🔬 Training Protocol:&lt;/strong> All methods were trained under identical conditions in Isaacsim with curriculum learning, and domain randomization. Optimization used PPO with GAE over 20k iterations, and each experiment was repeated with 3 seeds.
 &lt;/div>
-&lt;h3 id="spoilers">Spoilers&lt;/h3>
-&lt;p>Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">spoiler&lt;/span> &lt;span class="na">text&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;Click to view the spoiler&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">You found me!
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">spoiler&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
-&lt;details class="spoiler " id="spoiler-6">
-&lt;summary>Click to view the spoiler&lt;/summary>
-&lt;p>You found me!&lt;/p>
+&lt;video controls autoplay muted loop playsinline style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-top: 0.1rem;">
+&lt;source src="videos/sim.mp4" type="video/mp4">
+&lt;/video>
+&lt;p style="margin-top: -2rem; font-weight: 400; font-size: 0.85rem; text-align: center; color: #666;">Training conducted in IsaacSim with 4096 parallel environments&lt;/p>
+&lt;h3 id="baselines">Baselines&lt;/h3>
+&lt;ul>
+&lt;li>Hybrid Internal Model: &lt;a href="https://github.com/InternRobotics/HIMLoco" target="_blank" rel="noopener">HIMLoco&lt;/a> .&lt;/li>
+&lt;li>Self-learning Latent Representation: &lt;a href="https://github.com/11chens/SLR-master" target="_blank" rel="noopener">SLR&lt;/a>.&lt;/li>
+&lt;li>Teacher: Privileged expert policy with full state access (upper bound).&lt;/li>
+&lt;/ul>
+&lt;h3 id="our-ablations">Our Ablations&lt;/h3>
+&lt;ul>
+&lt;li>Ours w/ MLP: Student encoder replaced by a 10-step MLP.&lt;/li>
+&lt;li>Ours w/ TCN: Student encoder replaced by a temporal convolutional network.&lt;/li>
+&lt;li>Ours w/o Priv: Same architecture but trained without privileged states.&lt;/li>
+&lt;li>Ours w/o Priv Vel: No privileged states + no velocity inputs.&lt;/li>
+&lt;/ul>
+&lt;details>
+&lt;summary style="text-decoration: underline; font-weight:500; font-size:1.05rem; cursor:pointer;">
+📊 Click to Explore Interactive W&amp;B Training Results
+&lt;/summary>
+&lt;div style="margin-top:1rem; position:relative; padding-bottom:56.25%; height:650px; overflow:hidden; border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.15);">
+&lt;iframe
+src="https://api.wandb.ai/links/amrmousa-m/b6z2hs0e"
+style="position:absolute; top:0; left:0; width:100%; height:100%; border:none; border-radius:12px;">
+&lt;/iframe>
+&lt;/div>
 &lt;/details>
-&lt;h3 id="icons">Icons&lt;/h3>
-&lt;p>Academic enables you to use a wide range of &lt;a href="https://docs.hugoblox.com/getting-started/page-builder/#icons" target="_blank" rel="noopener">icons from &lt;em>Font Awesome&lt;/em> and &lt;em>Academicons&lt;/em>&lt;/a> in addition to &lt;a href="https://docs.hugoblox.com/content/writing-markdown-latex/#emojis" target="_blank" rel="noopener">emojis&lt;/a>.&lt;/p>
-&lt;p>Here are some examples using the &lt;code>icon&lt;/code> shortcode to render icons:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">icon&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;terminal&amp;#34;&lt;/span> &lt;span class="na">pack&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;fas&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}} Terminal
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">icon&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;python&amp;#34;&lt;/span> &lt;span class="na">pack&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;fab&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}} Python
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">icon&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;r-project&amp;#34;&lt;/span> &lt;span class="na">pack&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;fab&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}} R
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
-&lt;p>
-&lt;i class="fas fa-terminal pr-1 fa-fw">&lt;/i> Terminal&lt;br>
-&lt;i class="fab fa-python pr-1 fa-fw">&lt;/i> Python&lt;br>
-&lt;i class="fab fa-r-project pr-1 fa-fw">&lt;/i> R&lt;/p>
-&lt;h3 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h3></description></item><item><title>Slides</title><link>https://amrmousa.com/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://amrmousa.com/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-hugo-blox-builder">Create slides in Markdown with Hugo Blox Builder&lt;/h1>
-&lt;p>&lt;a href="https://hugoblox.com/" target="_blank" rel="noopener">Hugo Blox Builder&lt;/a> | &lt;a href="https://docs.hugoblox.com/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
-&lt;hr>
-&lt;h2 id="features">Features&lt;/h2>
+&lt;p>Our method achieves:&lt;/p>
 &lt;ul>
-&lt;li>Efficiently write slides in Markdown&lt;/li>
-&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
-&lt;li>Supports speaker notes&lt;/li>
-&lt;li>Mobile friendly slides&lt;/li>
+&lt;li>✅ Faster convergence than HIM, SLR, and all ablations.&lt;/li>
+&lt;li>✅ Higher final returns, surpassing even the privileged Teacher.&lt;/li>
+&lt;li>✅ Robust OOD generalization, maintaining strong performance under terrain, friction, and payload shifts.&lt;/li>
 &lt;/ul>
+&lt;figure id="figure-combined-evaluation-metrics-for-tar-himloco-and-slr-and-ablation-varients">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Evaluation Results" srcset="
+/tarloco/images/fig_eval_hu704af59e1f1af352d6b6432f70d0f455_1065332_39e2a59fe0b58c239b517b89bd6c9f26.webp 400w,
+/tarloco/images/fig_eval_hu704af59e1f1af352d6b6432f70d0f455_1065332_ff07d1d4f5e62a5994ef3510413f8e5e.webp 760w,
+/tarloco/images/fig_eval_hu704af59e1f1af352d6b6432f70d0f455_1065332_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://amrmousa.com/tarloco/images/fig_eval_hu704af59e1f1af352d6b6432f70d0f455_1065332_39e2a59fe0b58c239b517b89bd6c9f26.webp"
+width="724"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Combined evaluation metrics for TAR, HIMLoco, and SLR and ablation varients.
+&lt;/figcaption>&lt;/figure>
+&lt;/div>
+&lt;p>&lt;/br>&lt;/br>&lt;/p>
+&lt;script>
+function showTab(tabName, event) {
+// Hide all tab contents
+const contents = document.querySelectorAll('.tab-content');
+contents.forEach(content => content.style.display = 'none');
+// Remove active class from all buttons
+const buttons = document.querySelectorAll('.tab-button');
+buttons.forEach(button => button.classList.remove('active'));
+// Show selected tab and mark button as active
+document.getElementById(tabName).style.display = 'block';
+event.target.classList.add('active');
+}
+&lt;/script>
 &lt;hr>
-&lt;h2 id="controls">Controls&lt;/h2>
-&lt;ul>
-&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
-&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
-&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
-&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
-&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
-&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
-&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
-&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
-&lt;li>&lt;a href="https://revealjs.com/pdf-export/" target="_blank" rel="noopener">PDF Export&lt;/a>&lt;/li>
-&lt;/ul>
+&lt;h2 id="-evaluation">🎬 Evaluation&lt;/h2>
+&lt;div class="highlight-box">
+&lt;strong>🔬 Evaluation Protocol:&lt;/strong> Scenarios include both in-distribution cases (similar to training conditions) and challenging out-of-distribution scenarios that test generalization capabilities.
+&lt;/div>
+&lt;h4 id="in-distribution-testing">In-Distribution Testing&lt;/h4>
+&lt;div style="display: flex; justify-content: center; gap: .2rem; margin-top: 0.2rem;">
+&lt;div style="flex: 1; text-align: center;">
+&lt;p style="margin: 0; font-weight: 600;">Ours&lt;/p>
+&lt;video controls autoplay muted loop playsinline style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-top: 0.1rem;">
+&lt;source src="videos/id/m0_f0.1_s1.0_7.5k_ours.mp4" type="video/mp4">
+&lt;/video>
+&lt;p style="margin-top: -2rem; font-weight: 600; font-size: 0.85rem; color: #666;">Error: = 0.29 &lt;/p>
+&lt;/div>
+&lt;div style="flex: 1; text-align: center;">
+&lt;p style="margin: 0; font-weight: 600;">HIM&lt;/p>
+&lt;video controls autoplay muted loop playsinline style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-top: 0.1rem;">
+&lt;source src="videos/id/m0_f0.1_s1.0_7.5k_him.mp4" type="video/mp4">
+&lt;/video>
+&lt;p style="margin-top: -2rem; font-weight: 600; font-size: 0.85rem; color: #666;">Error: = 0.32 (&lt;span style="color: red;">-10.3%&lt;/span>)
+&lt;/div>
+&lt;div style="flex: 1; text-align: center;">
+&lt;p style="margin: 0; font-weight: 600;">SLR&lt;/p>
+&lt;video controls autoplay muted loop playsinline style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-top: 0.1rem;">
+&lt;source src="videos/id/m0_f0.1_s1.0_7.5k_slr.mp4" type="video/mp4">
+&lt;/video>
+&lt;p style="margin-top: -2rem; font-weight: 600; font-size: 0.85rem; color: #666;">Error: = 0.42 (&lt;span style="color: red;">-44.8%&lt;/span>)&lt;/p>
+&lt;/div>
+&lt;/div>
+Model: 7500&amp;nbsp; | &amp;nbsp; Friction Coefficient: 0.1 &amp;nbsp; | &amp;nbsp; Payload: 0 kg &amp;nbsp; | &amp;nbsp; Max Velocity: ±1.0 m/s
+&lt;/br>&lt;/br>
+&lt;h4 id="out-of-distribution-testing">Out-of-Distribution Testing&lt;/h4>
+&lt;div style="display: flex; justify-content: center; gap: .2rem; margin-top: 0.2rem;">
+&lt;div style="flex: 1; text-align: center;">
+&lt;p style="margin: 0; font-weight: 600;">Ours&lt;/p>
+&lt;video controls autoplay muted loop playsinline style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-top: 0.1rem;">
+&lt;source src="videos/ood/m0_f1.0_s2.0_20k_ours.mp4" type="video/mp4">
+&lt;/video>
+&lt;p style="margin-top: -2rem; font-weight: 600; font-size: 0.85rem; color: #666;">Error: = 0.39 &lt;/p>
+&lt;/div>
+&lt;div style="flex: 1; text-align: center;">
+&lt;p style="margin: 0; font-weight: 600;">HIM&lt;/p>
+&lt;video controls autoplay muted loop playsinline style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-top: 0.1rem;">
+&lt;source src="videos/ood/m0_f1.0_s2.0_20k_him.mp4" type="video/mp4">
+&lt;/video>
+&lt;p style="margin-top: -2rem; font-weight: 600; font-size: 0.85rem; color: #666;">Error: = 0.47 (&lt;span style="color: red;">-21%&lt;/span>)
+&lt;/div>
+&lt;div style="flex: 1; text-align: center;">
+&lt;p style="margin: 0; font-weight: 600;">SLR&lt;/p>
+&lt;video controls autoplay muted loop playsinline style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-top: 0.1rem;">
+&lt;source src="videos/ood/m0_f1.0_s2.0_20k_slr.mp4" type="video/mp4">
+&lt;/video>
+&lt;p style="margin-top: -2rem; font-weight: 600; font-size: 0.85rem; color: #666;">Error: = 0.63 (&lt;span style="color: red;">-64.53%&lt;/span>)
+&lt;/p>
+&lt;/div>
+&lt;/div>
+Model: 20000 &amp;nbsp; | &amp;nbsp; Friction Coefficient: 1.0 &amp;nbsp; | &amp;nbsp; Payload: 7.5 kg &amp;nbsp; | &amp;nbsp; &lt;span style="color: red;">Max Velocity: ±2.0 m/s&lt;/span>
+&lt;p>&lt;/br>&lt;/br>&lt;/p>
+&lt;h2 id="-real-world-deployment">🐾 Real-World Deployment&lt;/h2>
+&lt;p>The videos below showcase TARLoco in action on the Unitree Go2 robot, completely BLIND 🧑🏻‍🦯.&lt;/p>
+&lt;div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.2rem; margin-top: 1rem;">
+&lt;div style="grid-column: 1 / -1; text-align: center;">
+&lt;p style="margin: 0; font-weight: 600;">Dense Vegetation&lt;/p>
+&lt;/div>
+&lt;div style="text-align: center;">
+&lt;video controls autoplay muted loop playsinline style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-top: 0.2rem;">
+&lt;source src="videos/deploy/vegetation2.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;div style="text-align: center;">
+&lt;video controls autoplay muted loop playsinline style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-top: 0.2rem;">
+&lt;source src="videos/deploy/vegetation1.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;div style="text-align: center;">
+&lt;p style="margin: 0; font-weight: 600;">Different Terrains&lt;/p>
+&lt;video controls autoplay muted loop playsinline style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-top: 0.2rem;">
+&lt;source src="videos/deploy/walk.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;div style="text-align: center;">
+&lt;p style="margin: 0; font-weight: 600;">High-Step Descent&lt;/p>
+&lt;video controls autoplay muted loop playsinline style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-top: 0.2rem;">
+&lt;source src="videos/deploy/steps.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;div style="grid-column: 1 / -1; text-align: center;">
+&lt;p style="margin: 0; font-weight: 600;">External Pushes&lt;/p>
+&lt;/div>
+&lt;div style="text-align: center;">
+&lt;video controls autoplay muted loop playsinline style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-top: 0.2rem;">
+&lt;source src="videos/deploy/pushes1.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;div style="text-align: center;">
+&lt;video controls autoplay muted loop playsinline style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-top: 0.2rem;">
+&lt;source src="videos/deploy/pushes2.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;div style="text-align: center;">
+&lt;p style="margin: 0; font-weight: 600;">Soft Mattress&lt;/p>
+&lt;video controls autoplay muted loop playsinline style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-top: 0.2rem;">
+&lt;source src="videos/deploy/cushions.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;div style="text-align: center;">
+&lt;p style="margin: 0; font-weight: 600;">10kg Payload&lt;/p>
+&lt;video controls autoplay muted loop playsinline style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-top: 0.2rem;">
+&lt;source src="videos/deploy/mass.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;div style="grid-column: 1 / -1; text-align: center;">
+&lt;p style="margin: 0; font-weight: 600;">Joint Degradation&lt;/p>
+&lt;/div>
+&lt;div style="text-align: center;">
+&lt;video controls autoplay muted loop playsinline style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-top: 0.2rem;">
+&lt;source src="videos/deploy/fl_fail.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;div style="text-align: center;">
+&lt;video controls autoplay muted loop playsinline style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-top: 0.2rem;">
+&lt;source src="videos/deploy/rr_fail.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;div style="grid-column: 1 / -1; text-align: center; font-size: 0.85rem; margin-top: -2rem;">
+&lt;p style="margin: 0; font-weight: 500;">* Simulating actuator degradation by reducing the joint torque by 90%. Inspired by &lt;a href="https://doi.org/10.1145/3627676.3627686">ADAPT&lt;/a>—but without custom policy training, we just let the robot figure it out 😎! &lt;/p>
+&lt;/div>
+&lt;!-- &lt;div style="grid-column: 1 / -1; text-align: center; font-size: 0.85rem; margin-top: -2rem;">
+&lt;p style="margin: 0; font-weight: 500;">* Joint torque was reduced by 90% of its nominal value. This mirrors the &lt;a href="https://doi.org/10.1145/3627676.3627686">ADAPT&lt;/a> study in spirit, though without designing a new policy for the impaired setting.&lt;/p>
+&lt;/div> -->
+&lt;/div>&lt;/br>
 &lt;hr>
-&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
-&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
-&lt;p>Code block:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="n">porridge&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="n">porridge&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Eating...&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
-&lt;h2 id="math">Math&lt;/h2>
-&lt;p>In-line math: $x + y = z$&lt;/p>
-&lt;p>Block math:&lt;/p>
-&lt;p>$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p>
-&lt;hr>
-&lt;h2 id="fragments">Fragments&lt;/h2>
-&lt;p>Make content appear incrementally&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">{{% fragment %}} One {{% /fragment %}}
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% fragment %}} **Two** {{% /fragment %}}
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% fragment %}} Three {{% /fragment %}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
-&lt;span class="fragment " >
-One
-&lt;/span>
-&lt;span class="fragment " >
-&lt;strong>Two&lt;/strong>
-&lt;/span>
-&lt;span class="fragment " >
-Three
-&lt;/span>
-&lt;hr>
-&lt;p>A fragment can accept two optional parameters:&lt;/p>
-&lt;ul>
-&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
-&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
-&lt;p>Add speaker notes to your presentation&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{% speaker_note %}}
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Only the speaker can read these notes
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Press &lt;span class="sb">`S`&lt;/span> key to view
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> {{% /speaker_note %}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
-&lt;aside class="notes">
-&lt;ul>
-&lt;li>Only the speaker can read these notes&lt;/li>
-&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
-&lt;/ul>
-&lt;/aside>
-&lt;hr>
-&lt;h2 id="themes">Themes&lt;/h2>
-&lt;ul>
-&lt;li>black: Black background, white text, blue links (default)&lt;/li>
-&lt;li>white: White background, black text, blue links&lt;/li>
-&lt;li>league: Gray background, white text, blue links&lt;/li>
-&lt;li>beige: Beige background, dark text, brown links&lt;/li>
-&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;ul>
-&lt;li>night: Black background, thick white text, orange links&lt;/li>
-&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
-&lt;li>simple: White background, black text, blue links&lt;/li>
-&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;section data-noprocess data-shortcode-slide
-data-background-image="/media/boards.jpg"
->
-&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
-&lt;p>Customize the slide style and background&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-image&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;/media/boards.jpg&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-color&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;#0000FF&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;my-style&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
-&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
-&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
-&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-css" data-lang="css">&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h1&lt;/span>&lt;span class="o">,&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h2&lt;/span>&lt;span class="o">,&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h3&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">color&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="kc">navy&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;h2 id="-citation">📚 Citation&lt;/h2>
+&lt;p>If you find this work useful, please consider citing our paper:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bibtex" data-lang="bibtex">&lt;span class="line">&lt;span class="cl">&lt;span class="nc">@misc&lt;/span>&lt;span class="p">{&lt;/span>&lt;span class="nl">mousa2025tar&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">title&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">{TAR: Teacher-Aligned Representations via Contrastive Learning for Quadrupedal Locomotion}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">author&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">{Amr Mousa and Neil Karavis and Michele Caprio and Wei Pan and Richard Allmendinger}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">year&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">{2025}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">eprint&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">{2503.20839}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">archivePrefix&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">{arXiv}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">primaryClass&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">{cs.RO}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">url&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">{https://arxiv.org/abs/2503.20839}&lt;/span>&lt;span class="p">,&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
-&lt;h1 id="questions">Questions?&lt;/h1>
-&lt;p>&lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://docs.hugoblox.com/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>hyBIRD: Design of a Four and Six Seater Hybrid-Electric Aircraft Family</title><link>https://amrmousa.com/publication/thesis/zewail_bsc/</link><pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate><guid>https://amrmousa.com/publication/thesis/zewail_bsc/</guid><description/></item><item><title>Example Project</title><link>https://amrmousa.com/project/example/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://amrmousa.com/project/example/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
-&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
-&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>External Project</title><link>https://amrmousa.com/project/external-project/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://amrmousa.com/project/external-project/</guid><description/></item><item><title/><link>https://amrmousa.com/publication/preprint/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://amrmousa.com/publication/preprint/</guid><description>&lt;!-- ---
-title: "An example preprint / working paper"
-authors:
-- admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article"]
-# Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
-- Source Themes
-featured: false
-links:
-- name: Custom Link
-url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-focal_point: ""
-preview_only: false
-# Associated Projects (optional).
-# Associate this publication with one or more of your projects.
-# Simply enter your project's folder or file name without extension.
-# E.g. `internal-project` references `content/project/internal-project/index.md`.
-# Otherwise, set `projects: []`.
-projects:
-- internal-project
-# Slides (optional).
-# Associate this publication with Markdown slides.
-# Simply enter your slide deck's filename without extension.
-# E.g. `slides: "example"` references `content/slides/example/index.md`.
-# Otherwise, set `slides: ""`.
-slides: example
----
-&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --></description></item></channel></rss>
+&lt;h3 id="-acknowledgments-and-community">🙏🏻 Acknowledgments and Community&lt;/h3>
+&lt;p>Special thanks to &lt;a href="https://bvadorno.github.io/" target="_blank" rel="noopener">&lt;strong>Bruno Adorno&lt;/strong>&lt;/a> and &lt;strong>Amy Johnson&lt;/strong> from the University of Manchester for providing hardware for testing and their unwavering support.&lt;/p>
+&lt;p>This work builds upon &lt;a href="https://github.com/isaac-sim/IsaacLab" target="_blank" rel="noopener">&lt;strong>IsaacLab&lt;/strong>&lt;/a>, &lt;a href="https://github.com/leggedrobotics/rsl_rl" target="_blank" rel="noopener">&lt;strong>RSL-RL&lt;/strong>&lt;/a> and the broader research community. The original licenses apply; new contributions are under &lt;strong>CC BY-NC-SA 4.0&lt;/strong>.&lt;/p>
+&lt;p>For technical questions and implementation support:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>GitHub Issues:&lt;/strong> Report bugs and request features&lt;/li>
+&lt;li>&lt;strong>Discussions:&lt;/strong> Ask questions and share experiences&lt;/li>
+&lt;li>&lt;strong>Email:&lt;/strong> Direct contact for collaboration opportunities&lt;/li>
+&lt;/ul>
+&lt;div style="text-align: center; margin: 2rem 0; padding: 2rem; background: linear-gradient(135deg,rgb(247, 239, 207) 0%, #dfc661 100%); color: white; border-radius: 15px;">
+&lt;h3>🚀 Ready to Transform Your Quadrupedal Robotics Research?&lt;/h3>
+&lt;p style="font-size: 1rem; margin: 1rem 0; color: #000000">Discover how TAR can improve your approach to sim2real transfer and robust locomotion.&lt;/p>
+&lt;a href="https://github.com/ammousa/TARLoco" style="display: inline-block; background: white; color:rgb(145, 128, 63); padding: .5rem 2rem; border-radius: 25px; text-decoration: none; font-weight: bold; margin: 0.5rem;">⭐ Star on GitHub&lt;/a>
+&lt;a href="https://arxiv.org/abs/2503.20839" style="display: inline-block; background: rgba(0, 0, 0, 0.2); color: white; padding: .5rem 2rem; border-radius: 25px; text-decoration: none; font-weight: bold; margin: 0.5rem;">📄 Read the Paper&lt;/a>
+&lt;/div></description></item></channel></rss>
